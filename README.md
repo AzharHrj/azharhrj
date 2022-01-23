@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Azhar from Indonesian
 - 🔭 I’m currently working on Red Timer Indonesia
 - 🌱 I’m currently learning JavaScript, NextJS, ReactJS
 - 👯 I’m looking to collaborate on Jogjagamers Community XD
