@@ -2,7 +2,9 @@
 - 🔭 I’m currently working on Red Timer Indonesia
 - 🌱 I’m currently learning JavaScript, NextJS, ReactJS
 - 👯 I’m looking to collaborate on Jogjagamers Community XD
-- ⚡ Fun fact: I'm a Junior Fullstack Developer
+- ⚡ Fun fact: I'm a Electrical Engineers & Networks Engineers
+- 📫 How to reach me: me@azharhrj.my.id or discord @lordaz04
+- 💬 My hobby: Photography, watching anime and playing guitars
 <!--
 **AzharHrj/azharhrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
