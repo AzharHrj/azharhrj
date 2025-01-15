@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Azhar from Indonesian
 - 🔭 I’m currently working on Red Timer Indonesia
 - 🌱 I’m currently learning JavaScript, NextJS, ReactJS
-- 👯 I’m looking to collaborate on Jogjagamers Community XD
-- ⚡ Fun fact: I'm a Electrical Engineer & Networks Engineer
+- 👯 I’m looking to collaborate on Jogjagamers Community xD
+- ⚡ Fun fact: I'm a Electrical & Networks Engineer
 - 📫 How to reach me: me@azharhrj.my.id or discord @lordaz04
-- 💬 My hobby: Photography, watching anime and playing guitars/piano
+- 💬 My hobby: Photography, watching movie and playing guitars/piano
 <!--
 **AzharHrj/azharhrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
